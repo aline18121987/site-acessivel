@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor(1).png') top right no-repeat,
-        url('img/flor-esquerda(1).png') bottom left no-repeat;
+    background: url('img/flor (1).png') top right no-repeat,
+        url('img/flor-esquerda (1).png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007(1).jpg');
+    background-image: url('img/4965007 (1).jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -198,5 +198,3 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
-
-
